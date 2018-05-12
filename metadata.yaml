@@ -1,0 +1,28 @@
+_repo: The-Unprotected-Species_32036
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sturgis, Melvin
+    gutenberg_agent_id: '35628'
+    url: http://www.gutenberg.org/2009/agents/35628
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild
+- Animal
+gutenberg_issued: '2010-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+title: The Unprotected Species
+url: http://www.gutenberg.org/ebooks/32036
